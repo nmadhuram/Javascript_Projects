@@ -4,7 +4,6 @@ An app created to relax your mind by breathing in and breathing out. The app con
 
 ## Live Preview
 
-[Mind Relaxer](https://mindrelaxer-dk.netlify.app/)
 
 ## Tools Used
 
