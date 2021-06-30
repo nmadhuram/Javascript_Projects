@@ -4,7 +4,6 @@ A multiplication table app created with vanillaJS and a bit of CSS. The sole pur
 
 ## Live Preview
 
-[Multiplication Table](https://multiplicationtable-dk.netlify.app/)
 
 ## Things to Learn
 
