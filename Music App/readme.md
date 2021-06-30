@@ -4,7 +4,6 @@ A music app built with javascript. The app uses classical Indian 'Sa re Ga Ma Pa
 
 ## Live Preview
 
-[Music App](https://musicapp-dk.netlify.app/)
 
 ## Tools
 
